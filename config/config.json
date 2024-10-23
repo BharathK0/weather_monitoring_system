@@ -1,0 +1,6 @@
+{
+    "api_key": "d7e8913354d6bfda77c20870a79621f5",
+    "cities": ["Delhi", "Mumbai", "Chennai", "Bangalore", "Kolkata", "Hyderabad"],
+    "fetch_interval": 300,
+    "temperature_unit": "metric"
+}
