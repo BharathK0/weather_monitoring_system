@@ -11,7 +11,7 @@ The Weather Monitoring System is designed to provide real-time weather monitorin
 ## Installation Steps
 ```bash
 # Clone the repository
-git clone https://github.com/yourhandle/weather-monitoring-system.git
+git clone https://github.com/BharathK0/weather_monitoring_system.git
 
 # Navigate to the project directory
 cd weather-monitoring-system
