@@ -1,0 +1,23 @@
+# For making HTTP requests
+requests==2.31.0
+
+# JSON parsing (Python's built-in json package)
+jsonlib-python3==1.6.1
+
+# Date and time handling
+python-dateutil==2.8.2
+
+# For visualizations (e.g., graphs, charts)
+matplotlib==3.7.1
+
+# For unit testing
+unittest2==1.1.0
+
+# For any optional database or data storage (if needed later)
+sqlalchemy==2.0.0  # Optional, for database connections
+
+# For reading and parsing config files (if necessary)
+pyyaml==6.0
+
+# For plotting weather trends (if necessary)
+seaborn==0.12.1
